@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "699737210027",
+    "project_id": "wemet-b70d2",
+    "storage_bucket": "wemet-b70d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699737210027:android:3559a51da0494370ca0bee",
+        "android_client_info": {
+          "package_name": "com.example.wemet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699737210027-37ncbnpdu29alf19sjhq5j7r7nouu5g3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wemet",
+            "certificate_hash": "e6b72e3b547163ab26cd971b92ad86cc75d04b26"
+          }
+        },
+        {
+          "client_id": "699737210027-0b22n9f97arg5rfv935gk4p3vveka2kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqzRUy2plM0t_OBk8xLfK71Tiz9GSz_08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699737210027-0b22n9f97arg5rfv935gk4p3vveka2kj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699737210027-c786qomfoa3dclcskfcqhuecfc3eoq0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wemet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699737210027:android:ee386e067d86a26fca0bee",
+        "android_client_info": {
+          "package_name": "com.example.wemet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699737210027-1fv31a8r5m66fn9igk01b9mec35f4q0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wemet2",
+            "certificate_hash": "e6b72e3b547163ab26cd971b92ad86cc75d04b26"
+          }
+        },
+        {
+          "client_id": "699737210027-0b22n9f97arg5rfv935gk4p3vveka2kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqzRUy2plM0t_OBk8xLfK71Tiz9GSz_08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699737210027-0b22n9f97arg5rfv935gk4p3vveka2kj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699737210027-c786qomfoa3dclcskfcqhuecfc3eoq0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wemet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
